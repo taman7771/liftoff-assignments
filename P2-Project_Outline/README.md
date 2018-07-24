@@ -1,10 +1,13 @@
-# Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
+### Overview
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
+  Not all campsites are created equal. For example, the private site with river access and a view versus the crowded site next to the dump station. Which is why my family has kept a folder full of campground maps with notes scribbled in the margins since before I was born. However, over that amount of time some maps have become illegible or simply lost. Which is why it is time for a digital solution, Best Campsite!
+  Users will be able to login, search campgrounds, and mark campsites according to their tastes. Everyone has different judgement criteria for campsites. Which is why when marking sites users can write a brief description to remind themselves why they marked it in the first place. Then when a user is ready to plan their next trip they can go their user page to review their marked sites.
+  
+### Features
 
-## Submission Instructions
+User Login: Users can create accounts, login, and a user page to review marked sites.
+Campground Search: Users can search with a map interface and select campgrounds.
+Mark Site: Users can view a list of all campsites and rate them as they see fit.
 
 ### Overview
 Developing an app for my Church’s Kid’s ministry. They have several events, gatherings and summer camps throughout the year. I observed a loose system on kids registration for events and gatherings. I want to implement a system that allows parents first to login into the app and register their children for events and on the events a check-in and check-out system to easily drop off and pick up their kids of their sessions. 
