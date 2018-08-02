@@ -8,9 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-[Home Page] (https://github.com/taman7771/rwec-project/blob/master/wireframe/wireframe_1.jpeg)
+[Home Page] (https://github.com/taman7771/rwec-project/blob/master/wireframe/Home.jpeg)
 
-[Events Page] (https://github.com/taman7771/rwec-project/blob/master/wireframe/wireframe_2.jpeg)
+[Events Page] (https://github.com/taman7771/rwec-project/blob/master/wireframe/Events.jpeg)
+
+[Resources Page] (https://github.com/taman7771/rwec-project/blob/master/wireframe/Resources.jpeg)
 
 ### Project Tracker
 
