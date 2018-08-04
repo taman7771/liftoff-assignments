@@ -8,15 +8,15 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-[Home Page] (https://github.com/taman7771/rwec-project/blob/master/wireframe/Home.jpeg)
+[Home Page](https://github.com/taman7771/rwec-project/blob/master/wireframe/Home.jpeg)
 
-[Events Page] (https://github.com/taman7771/rwec-project/blob/master/wireframe/Events.jpeg)
+[Events Page](https://github.com/taman7771/rwec-project/blob/master/wireframe/Events.jpeg)
 
-[Resources Page] (https://github.com/taman7771/rwec-project/blob/master/wireframe/Resources.jpeg)
+[Resources Page](https://github.com/taman7771/rwec-project/blob/master/wireframe/Resources.jpeg)
 
 ### Project Tracker
 
-[Project Tracker] (https://github.com/taman7771/rwec-project/projects)
+[Project Tracker](https://github.com/taman7771/rwec-project/projects)
 
 ### Project repository 
-[Project Repository] (https://github.com/taman7771/rwec-project)
+[Project Repository](https://github.com/taman7771/rwec-project)
