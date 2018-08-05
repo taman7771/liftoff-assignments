@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 [Github Account](https://github.com/taman7771)
  
 ### LinkedIn
-[Linkedin Account](https://www.linkedin.com/in/samuel-tekle-51216527/)
+[Linkedin Account](https://www.linkedin.com/in/samuel-tekle/)
 
 ### Resume
 Sent by email to Mentor
