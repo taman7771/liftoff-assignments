@@ -13,6 +13,6 @@ For this assignment you will need to upload your resume, and provide links to yo
 [Linkedin Account](https://www.linkedin.com/in/samuel-tekle/)
 
 ### Resume
-Sent by email to Mentor
+[Resume](https://github.com/taman7771/liftoff-assignments/blob/master/C1-Online_Profiles/Resume_sam_liftoff_new.pdf)
 
 
